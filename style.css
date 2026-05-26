@@ -6,7 +6,11 @@
       
 }
 body{
-background-color: #351804db; 
+background-image: url('./fotos/Gemini_Generated_Image_f24nuuf24nuuf24n.png'); 
+  background-size: cover;     
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
 }
 .titulo h1 {
   font-family: 'Caveat', cursive;
